@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-man.github.io/top-berita/sitemap.xml
